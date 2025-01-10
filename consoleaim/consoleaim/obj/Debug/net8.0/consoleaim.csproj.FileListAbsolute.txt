@@ -1,0 +1,17 @@
+C:\Users\kirik\source\repos\consoleaim\consoleaim\bin\Debug\net8.0\consoleaim.exe
+C:\Users\kirik\source\repos\consoleaim\consoleaim\bin\Debug\net8.0\consoleaim.deps.json
+C:\Users\kirik\source\repos\consoleaim\consoleaim\bin\Debug\net8.0\consoleaim.runtimeconfig.json
+C:\Users\kirik\source\repos\consoleaim\consoleaim\bin\Debug\net8.0\consoleaim.dll
+C:\Users\kirik\source\repos\consoleaim\consoleaim\bin\Debug\net8.0\consoleaim.pdb
+C:\Users\kirik\source\repos\consoleaim\consoleaim\bin\Debug\net8.0\Memory.dll
+C:\Users\kirik\source\repos\consoleaim\consoleaim\obj\Debug\net8.0\consoleaim.csproj.AssemblyReference.cache
+C:\Users\kirik\source\repos\consoleaim\consoleaim\obj\Debug\net8.0\consoleaim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirik\source\repos\consoleaim\consoleaim\obj\Debug\net8.0\consoleaim.AssemblyInfoInputs.cache
+C:\Users\kirik\source\repos\consoleaim\consoleaim\obj\Debug\net8.0\consoleaim.AssemblyInfo.cs
+C:\Users\kirik\source\repos\consoleaim\consoleaim\obj\Debug\net8.0\consoleaim.csproj.CoreCompileInputs.cache
+C:\Users\kirik\source\repos\consoleaim\consoleaim\obj\Debug\net8.0\consoleaim.csproj.Up2Date
+C:\Users\kirik\source\repos\consoleaim\consoleaim\obj\Debug\net8.0\consoleaim.dll
+C:\Users\kirik\source\repos\consoleaim\consoleaim\obj\Debug\net8.0\refint\consoleaim.dll
+C:\Users\kirik\source\repos\consoleaim\consoleaim\obj\Debug\net8.0\consoleaim.pdb
+C:\Users\kirik\source\repos\consoleaim\consoleaim\obj\Debug\net8.0\consoleaim.genruntimeconfig.cache
+C:\Users\kirik\source\repos\consoleaim\consoleaim\obj\Debug\net8.0\ref\consoleaim.dll
